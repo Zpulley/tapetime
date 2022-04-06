@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "tape";
+  src: url(2VF.ttf);
+}
+
+body {
+  background: #f3f3f3;
+}
+
+
+#clock {
+  font-family: "tape";
+  font-size: 208px;
+  color: #35b215;
+  background: #f3f3f3;
+  border-radius: 5px;
+  text-align: center;
+}
